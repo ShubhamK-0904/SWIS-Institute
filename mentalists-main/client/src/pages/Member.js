@@ -72,7 +72,7 @@ const memberData = {
       designation : "CEO | Managing director | Leader",
       shortDesignation: "Mentor",
       imageUrl:sandesh,
-      bio: "A leadership expert with over 35 years of experience across healthcare, infrastructure, and engineering. As CEO of Shankara Eye Foundation, he spearheaded the expansion of India’s largest eye care network into western India. His prior role as Managing Director (PPP) at Reliance Infrastructure Limited saw him driving major initiatives in Odisha. He has also held senior positions at Bharat Bijlee, KONE, and Zicom, where he consistently advanced innovation and organizational growth.",
+      bio: "A leadership professional with over 35 years of experience across healthcare, infrastructure, and engineering. He served as CEO of Shankara Eye Foundation, where he spearheaded the expansion of India’s largest eye care network into western India. Prior to this, he was Managing Director (PPP) at Reliance Infrastructure Limited, leading major initiatives in Odisha. His career also includes senior roles at Bharat Bijlee, KONE, and Zicom. In each of these positions, he consistently advanced innovation and organizational growth. He is recognized for building sustainable institutions and fostering technological progress. Throughout his career, Sandesh has demonstrated a commitment to impact, innovation, and transformation.",      
       socialMedia:{
         linkedin: "#",
         twitter: "#",
