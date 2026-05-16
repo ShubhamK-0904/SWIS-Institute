@@ -4,6 +4,8 @@ import { useState, useEffect } from "react"
 import { motion, AnimatePresence } from "framer-motion"
 import { ChevronLeft, ChevronRight, X, Linkedin, Twitter, Globe, ArrowRight } from "lucide-react"
 import rubali from '../img/rubali.jpg';
+import sandesh from '../img/sandesh.jpg';
+import shirisha from '../img/shirisha.jpg';
 import sarmishta from '../img/Sarmishtha.jpg';
 import khushboo from '../img/khushboo.jpg';
 import samik from '../img/samik.jpg';
@@ -46,7 +48,7 @@ const memberData = {
       designation: "Ex-Paani Foundation | Ex-CIMA | Ex-Kotak Education Foundation",
       shortDesignation: "Mentor", // Added for card display
       imageUrl: rubali,
-      bio: "A finance expert with over 20 years of experience, currently serving as a Consultant at Calcutta Social Project. She has managed financial systems, donor documentation, and budgets for multiple NGOs, ensuring efficiency and transparency. As the former Head of Finance at Paani Foundation, she played a pivotal role in focusing on water conservation initiatives in Maharashtra. Her experience extends to strengthening financial systems at CIMA and Kotak Education Foundation, where she contributed to enhancing operational processes and compliance. She has also led teams on financial governance at Akanksha Foundation.",
+      bio: "A financial leadership professional with over two decades of experience, specializing in governance, compliance, and operational excellence. She has managed financial operations at Paani Foundation, Kotak Education Foundation, and Akanksha Foundation, building robust systems that enhance transparency and accountability across social sector organizations. With deep expertise in budgeting, donor documentation, and financial system strengthening, she has consistently advanced organizational effectiveness and trust in the sector.",
       socialMedia: {
         linkedin: "#",
         twitter: "#",
@@ -64,6 +66,30 @@ const memberData = {
         twitter: "#",
         website: "#",
       },
+    },
+    {
+      name: "Mr Sandesh",
+      designation : "CEO | Managing director | Leader",
+      shortDesignation: "Mentor",
+      imageUrl:sandesh,
+      bio: "A leadership professional with over 35 years of experience across healthcare, infrastructure, and engineering. He served as CEO of Shankara Eye Foundation, where he spearheaded the expansion of India’s largest eye care network into western India. Prior to this, he was Managing Director (PPP) at Reliance Infrastructure Limited, leading major initiatives in Odisha. His career also includes senior roles at Bharat Bijlee, KONE, and Zicom. In each of these positions, he consistently advanced innovation and organizational growth. He is recognized for building sustainable institutions and fostering technological progress. Throughout his career, Sandesh has demonstrated a commitment to impact, innovation, and transformation.",      
+      socialMedia:{
+        linkedin: "#",
+        twitter: "#",
+        website:"#",
+      },
+    },
+    {
+      name :"Ms. Shrisha",
+      designation: "Ex-JBCN International School | Ex-CHIREC International School | Ex-Oberoi International School | Ex-IMS Learning Resources | Cambridge & IB Teacher Trainer",
+      shortDesignation : "Mentor",
+      imageUrl: shirisha,
+      bio: "An education leader with over 23 years of experience, specializing in school leadership, teacher training, and curriculum development. She has served as Deputy Principal at JBCN International School and CHIREC International School, and held leadership roles at Oberoi International School and IMS Learning Resources. A certified trainer for Cambridge and IB schools, she brings expertise in Mathematics and Theory of Knowledge (TOK). Her global perspective is shaped by academic engagements at Harvard, IIM Calcutta, and Cambridge, equipping her to drive excellence in teaching and learning.",       
+      socialMedia:{
+        linkedin: "#",
+        twitter:"#",
+        website:"#",
+      }
     },
     {
       name: "Ms. Khushboo Singh",
